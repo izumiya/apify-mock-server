@@ -1,0 +1,24 @@
+{
+  "name": "apify-mock-server",
+  "version": "1.0.0",
+  "description": "https://github.com/apify/apify-client-js/tree/master/test/mock_server",
+  "main": "src/server.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1"
+  }
+}
