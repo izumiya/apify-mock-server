@@ -1,6 +1,6 @@
 {
   "name": "apify-mock-server",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "https://github.com/apify/apify-client-js/tree/master/test/mock_server",
   "main": "src/server.js",
   "files": [
